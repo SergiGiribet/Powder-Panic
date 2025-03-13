@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Girquell\\Powder-Panic\\",
+  "WorkspaceRootPath": "C:\\UnityProjects\\Powder-Panic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28D63E67-B6F4-EE3D-6D63-D1491FCCDE9B}|Assembly-CSharp.csproj|c:\\users\\girquell\\powder-panic\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28D63E67-B6F4-EE3D-6D63-D1491FCCDE9B}|Assembly-CSharp.csproj|c:\\unityprojects\\powder-panic\\assets\\npcshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D63E67-B6F4-EE3D-6D63-D1491FCCDE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\npcshooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D63E67-B6F4-EE3D-6D63-D1491FCCDE9B}|Assembly-CSharp.csproj|C:\\UnityProjects\\Powder-Panic\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28D63E67-B6F4-EE3D-6D63-D1491FCCDE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28D63E67-B6F4-EE3D-6D63-D1491FCCDE9B}|Assembly-CSharp.csproj|c:\\users\\girquell\\powder-panic\\assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{28D63E67-B6F4-EE3D-6D63-D1491FCCDE9B}|Assembly-CSharp.csproj|c:\\unityprojects\\powder-panic\\assets\\npcmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28D63E67-B6F4-EE3D-6D63-D1491FCCDE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\npcmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28D63E67-B6F4-EE3D-6D63-D1491FCCDE9B}|Assembly-CSharp.csproj|C:\\UnityProjects\\Powder-Panic\\assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28D63E67-B6F4-EE3D-6D63-D1491FCCDE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,28 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "npcShooter.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\Powder-Panic\\Assets\\npcShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\npcShooter.cs",
+              "ToolTip": "C:\\UnityProjects\\Powder-Panic\\Assets\\npcShooter.cs",
+              "RelativeToolTip": "Assets\\npcShooter.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:05:03.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "npcMovement.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\Powder-Panic\\Assets\\npcMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\npcMovement.cs",
+              "ToolTip": "C:\\UnityProjects\\Powder-Panic\\Assets\\npcMovement.cs",
+              "RelativeToolTip": "Assets\\npcMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T17:02:53.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\Girquell\\Powder-Panic\\Assets\\Scripts\\PlayerController.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\Powder-Panic\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\Girquell\\Powder-Panic\\Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\UnityProjects\\Powder-Panic\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T19:35:05.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "FollowCamera.cs",
-              "DocumentMoniker": "C:\\Users\\Girquell\\Powder-Panic\\Assets\\Scripts\\FollowCamera.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\Powder-Panic\\Assets\\Scripts\\FollowCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FollowCamera.cs",
-              "ToolTip": "C:\\Users\\Girquell\\Powder-Panic\\Assets\\Scripts\\FollowCamera.cs",
+              "ToolTip": "C:\\UnityProjects\\Powder-Panic\\Assets\\Scripts\\FollowCamera.cs",
               "RelativeToolTip": "Assets\\Scripts\\FollowCamera.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T19:29:21.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T19:29:21.309Z"
             }
           ]
         }
